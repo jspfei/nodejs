@@ -1,0 +1,11 @@
+{
+  "name": "lession4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "使用 eventproxy 控制并发》"
+  },
+  "author": "",
+  "license": "ISC"
+}
