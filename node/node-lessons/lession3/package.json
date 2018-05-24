@@ -1,0 +1,14 @@
+{
+  "name": "lession3",
+  "version": "1.0.0",
+  "description": "使用 superagent 与cheerio 完成简单爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^3.8.3"
+  }
+}
