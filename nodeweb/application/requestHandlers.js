@@ -27,6 +27,7 @@ function upload(response,request) {
     var form = new formidable.IncomingForm();
     console.log("about to parse");
     form.uploadDir='tmp';
+    //https://www.cnblogs.com/jaxu/archive/2016/01/05/5100636.html
     form.parse(request, function(error, fields, files) {
         console.log("parsing done");
         console.log("files.upload.path "+files.upload.path);
