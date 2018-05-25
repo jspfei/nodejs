@@ -1,0 +1,11 @@
+{
+  "name": "tagg",
+  "version": "1.0.0",
+  "description": "threads-a-gogo node多线程  不支持win系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
